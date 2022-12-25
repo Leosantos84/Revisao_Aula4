@@ -1,0 +1,13 @@
+C:\Ivanilson_Santos\03_CSharp\Projetos\ExercicioRevisao_Aula4\ExercicioRevisao_Aula4\bin\Debug\ExercicioRevisao_Aula4.exe.config
+C:\Ivanilson_Santos\03_CSharp\Projetos\ExercicioRevisao_Aula4\ExercicioRevisao_Aula4\bin\Debug\ExercicioRevisao_Aula4.exe
+C:\Ivanilson_Santos\03_CSharp\Projetos\ExercicioRevisao_Aula4\ExercicioRevisao_Aula4\bin\Debug\ExercicioRevisao_Aula4.pdb
+C:\Ivanilson_Santos\03_CSharp\Projetos\ExercicioRevisao_Aula4\ExercicioRevisao_Aula4\obj\Debug\ExercicioRevisao_Aula4.csprojResolveAssemblyReference.cache
+C:\Ivanilson_Santos\03_CSharp\Projetos\ExercicioRevisao_Aula4\ExercicioRevisao_Aula4\obj\Debug\ExercicioRevisao_Aula4.Form1.resources
+C:\Ivanilson_Santos\03_CSharp\Projetos\ExercicioRevisao_Aula4\ExercicioRevisao_Aula4\obj\Debug\ExercicioRevisao_Aula4.Properties.Resources.resources
+C:\Ivanilson_Santos\03_CSharp\Projetos\ExercicioRevisao_Aula4\ExercicioRevisao_Aula4\obj\Debug\ExercicioRevisao_Aula4.csproj.GenerateResource.Cache
+C:\Ivanilson_Santos\03_CSharp\Projetos\ExercicioRevisao_Aula4\ExercicioRevisao_Aula4\obj\Debug\ExercicioRevisao_Aula4.exe
+C:\Ivanilson_Santos\03_CSharp\Projetos\ExercicioRevisao_Aula4\ExercicioRevisao_Aula4\obj\Debug\ExercicioRevisao_Aula4.pdb
+C:\Ivanilson_Santos\03_CSharp\Projetos\ExercicioRevisao_Aula4\ExercicioRevisao_Aula4\obj\Debug\ExercicioRevisao_Aula4.Form2.resources
+C:\Ivanilson_Santos\03_CSharp\Projetos\ExercicioRevisao_Aula4\ExercicioRevisao_Aula4\obj\Debug\ExercicioRevisao_Aula4.Form3.resources
+C:\Ivanilson_Santos\03_CSharp\Projetos\ExercicioRevisao_Aula4\ExercicioRevisao_Aula4\obj\Debug\ExercicioRevisao_Aula4.Form4.resources
+C:\Ivanilson_Santos\03_CSharp\Projetos\ExercicioRevisao_Aula4\ExercicioRevisao_Aula4\obj\Debug\ExercicioRevisao_Aula4.Form5.resources
